@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Mourad Kraiem</h1>
 
-<!--
-**Soni-KR/Soni-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  AI / ML Engineering Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent systems across
+  <b>Machine Learning</b> ·
+  <b>LLMs</b> ·
+  <b>Computer Vision</b> ·
+  <b>Graph ML</b> ·
+  <b>Reinforcement Learning</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Soni-KR">GitHub</a>
+  •
+  <a href="https://github.com/Soni-KR/Portfolio">Portfolio</a>
+  •
+  <a href="https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems">Research</a>
+</p>
+
+---
+
+### ⚡ Currently building
+
+Exploring AI through research, full-stack intelligent systems, and interactive projects — from LLM-powered games to reinforcement learning and computer vision.
