@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Soni-KR/Portfolio/main/public/avatar/mourad-working.webp" width="220" alt="Mourad Kraiem" />
+<img src="https://github.com/Soni-KR.png" width="220" alt="Mourad Kraiem" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Soni-KR/Portfolio">
+<a href="https://mouradkraiem.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -73,3 +73,4 @@ A full-stack AI dental assistance platform combining computer vision, clinical w
 `Neo4j` · `LangChain` · `Chroma` · `ONNX` · `Celery`
 
 </div>
+```
