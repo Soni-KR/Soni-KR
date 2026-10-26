@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mourad Kraiem — AI / ML engineering</title>
+  <desc id="desc">From models to useful systems. A connected graph of language, vision, and agents on a midnight-blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1728"/>
+      <stop offset="1" stop-color="#142c3b"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#53dfc3" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#53dfc3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#b9d0d7" opacity=".11"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+  <rect x="720" width="560" height="360" rx="22" fill="url(#dots)"/>
+  <ellipse cx="1020" cy="175" rx="300" ry="255" fill="url(#glow)"/>
+  <rect x="54" y="49" width="36" height="4" rx="2" fill="#53dfc3"/>
+  <text x="54" y="88" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="3" fill="#8faab9">AI / ML ENGINEERING</text>
+  <text x="50" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f2f5f3">Mourad Kraiem<tspan fill="#53dfc3">.</tspan></text>
+  <text x="54" y="220" font-family="Segoe UI, Arial, sans-serif" font-size="29" fill="#c4d3dc">From models to useful systems.</text>
+  <text x="54" y="301" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8faab9">ENSI</text>
+  <circle cx="117" cy="295" r="2.5" fill="#ffb58c"/>
+  <text x="132" y="301" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8faab9">@Soni-KR</text>
+  <g fill="none" stroke="#4c7887" stroke-width="1.5">
+    <path d="M825 96L973 171L1140 78M973 171L1147 278M973 171L816 275M825 96L1140 78M816 275L1147 278" opacity=".75"/>
+    <circle cx="973" cy="171" r="68" stroke="#53dfc3" opacity=".16"/>
+    <circle cx="973" cy="171" r="95" stroke="#53dfc3" opacity=".08"/>
+  </g>
+  <g fill="#142a39" stroke="#527b89" stroke-width="1.5">
+    <circle cx="825" cy="96" r="12"/>
+    <circle cx="1140" cy="78" r="8"/>
+    <circle cx="816" cy="275" r="8"/>
+    <circle cx="1147" cy="278" r="12"/>
+  </g>
+  <circle cx="825" cy="96" r="4" fill="#ffb58c"/>
+  <circle cx="1147" cy="278" r="4" fill="#53dfc3"/>
+  <rect x="906" y="140" width="134" height="62" rx="13" fill="#193a44" stroke="#53dfc3" stroke-width="1.5"/>
+  <text x="973" y="178" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="21" font-weight="700" letter-spacing="2" fill="#b4f5e6">BUILD</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.5" fill="#9fbac6">
+    <text x="847" y="83">LANGUAGE</text>
+    <text x="841" y="302">VISION</text>
+    <text x="1074" y="314">AGENTS</text>
+  </g>
+</svg>
