@@ -1,76 +1,72 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mourad Kraiem — AI / ML engineering student. From models to useful systems." />
+</p>
 
-<img src="https://github.com/Soni-KR.png" width="220" alt="Mourad Kraiem" />
+<p align="center">
+  <a href="https://mouradkraiem.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mourad-kraiem-99a0952a1/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:mourad.kraiem@ensi-uma.tn"><strong>Say hello</strong></a>
+</p>
 
-<br/>
+I'm a computer science engineering student at **ENSI**, building across **language models, computer vision, and intelligent systems**. I like projects where an experiment becomes something people can actually use: a clinical workflow, a grounded answer, or a game you can play.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mourad+Kraiem+%F0%9F%91%8B;AI+%2F+ML+Engineering+Student;LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Graph+ML;Reinforcement+Learning+%E2%80%A2+Intelligent+Systems" alt="Typing SVG" />
-</a>
+## Selected builds
 
-**AI • ML • Research • Engineering**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / PCDent</h3>
+<p><strong>Computer vision meets clinical workflows.</strong></p>
+<p>A team-built dental assistance prototype with radiograph segmentation, AI-assisted reports, real-time messaging, and dentist review.</p>
+<p><sub>YOLO · PyTorch · Django · React · PostgreSQL</sub></p>
+<a href="https://github.com/Soni-KR/pcdent"><strong>Explore the system →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>02 / AI Detective</h3>
+<p><strong>Ask questions. Find contradictions. Solve the case.</strong></p>
+<p>An interactive mystery game with LLM-powered suspects and a deterministic evidence engine that keeps the story grounded.</p>
+<p><sub>Next.js · TypeScript · React · OpenRouter</sub></p>
+<a href="https://github.com/Soni-KR/ai-detective"><strong>Open the case files →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / MG-Retriever</h3>
+<p><strong>Arabic medical QA with a trail of evidence.</strong></p>
+<p>A Graph-RAG research prototype combining lexical, vector, and graph retrieval with citations and claim verification.</p>
+<p><sub>Python · Neo4j · Sentence Transformers · Docker</sub></p>
+<a href="https://github.com/Soni-KR/Explainable-G-RAG-Arabic-Medical-QA"><strong>Follow the evidence →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Small model, better summaries</h3>
+<p><strong>Fine-tuning with a small parameter budget.</strong></p>
+<p>A LoRA experiment on SmolLM2-135M: ROUGE-L improved from <strong>20.42 to 36.71</strong> on 500 DialogSum test dialogues.</p>
+<p><sub>PyTorch · Transformers · PEFT · TRL</sub></p>
+<a href="https://github.com/Soni-KR/lora-dialogue-summarization"><strong>Inspect the experiment →</strong></a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+## A little deeper
 
-<a href="https://mouradkraiem.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+- **[Graphs + agents](https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems)** — an internship project exploring country–disease link prediction from Arabic health news.
+- **[Depth from a single image](https://github.com/Soni-KR/AIGOAT1.0-Task2-Monocular-Depth-Estimation-from-Single-RGB-Images-solution)** — a monocular depth estimation solution with ONNX inference, FastAPI, and React.
+- **[Agent Check](https://github.com/Soni-KR/agent-check)** — a local tool-using agent and evaluation lab built with Ollama, FastAPI, and React.
 
-<a href="https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems">
-  <img src="https://img.shields.io/badge/RESEARCH-0969DA?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>
+## What I build with
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Soni-KR&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-
-</div>
+| Layer | Toolkit |
+| :--- | :--- |
+| **Models & experiments** | Python · PyTorch · Transformers · scikit-learn · OpenCV |
+| **Language & retrieval** | LoRA / PEFT · RAG · Neo4j · LangChain · Ollama |
+| **Interfaces & APIs** | TypeScript · React · Next.js · Django · FastAPI |
+| **Data & delivery** | PostgreSQL · Redis · Docker · Git |
 
 ---
 
-## ⚡ Featured System
-
-### 🦷 PCDent
-
-A full-stack AI dental assistance platform combining computer vision, clinical workflows, real-time communication, and AI-assisted reporting.
-
-`YOLO` · `PyTorch` · `Django` · `React` · `PostgreSQL`
-
-[**Explore PCDent →**](https://github.com/Soni-KR/pcdent)
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" />
-
-<br/><br/>
-
-`SQL`
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
-
-<br/><br/>
-
-`Transformers` · `LLMs` · `Graph Neural Networks` · `RAG` · `YOLO` · `Q-Learning`
-
-### Web / Backend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,tailwind" />
-
-### Data / Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github" />
-
-<br/><br/>
-
-`Neo4j` · `LangChain` · `Chroma` · `ONNX` · `Celery`
-
-</div>
-```
+<p align="center">
+  <strong>Have an interesting AI problem?</strong><br />
+  <a href="mailto:mourad.kraiem@ensi-uma.tn">Let's talk about what we could build.</a>
+</p>
