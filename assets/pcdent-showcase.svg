@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">PCDent — AI dental assistance</title>
+  <desc id="desc">An academic team project: radiograph upload, detection and segmentation, AI report drafting, and dentist review. Animated signals connect the four stages.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#07152b"/><stop offset=".55" stop-color="#102450"/><stop offset="1" stop-color="#0a1630"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#69d5ff"/><stop offset="1" stop-color="#9d8bff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#70a5ff" stroke-opacity=".07"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display:none; } }</style>
+  </defs>
+  <rect x="1" y="1" width="1278" height="338" rx="22" fill="url(#background)" stroke="#3c66a0"/>
+  <rect x="1" y="1" width="1278" height="338" rx="22" fill="url(#grid)"/>
+  <path d="M40 1H390" stroke="url(#accent)" stroke-width="3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="54" font-size="14" font-weight="600" letter-spacing="3" fill="#92b9e6">FEATURED SYSTEM / ACADEMIC TEAM PROJECT</text>
+    <text x="44" y="134" font-size="76" font-weight="750" letter-spacing="-2" fill="#f0f6ff">PC<tspan fill="url(#accent)">Dent</tspan><tspan fill="#65c9ff">.</tspan></text>
+    <text x="48" y="177" font-size="26" fill="#c5d6f3">Computer vision. Clinical workflows. Human judgment.</text>
+    <rect x="960" y="32" width="266" height="34" rx="17" fill="#18344d" stroke="#356d8b"/>
+    <circle cx="980" cy="49" r="4" fill="#7ce0d1"/>
+    <text x="998" y="55" font-size="15" font-weight="600" fill="#a4ece3">DENTIST IN THE LOOP</text>
+  </g>
+  <g transform="translate(1120 127)" fill="none" stroke="#8bcfff" stroke-width="2.5">
+    <path d="M-30-31C-50-32-55-13-48 8C-42 25-37 50-28 49C-19 48-18 22-9 22S1 48 10 49C19 50 25 25 30 8C37-13 32-32 12-31C3-31-2-24-9-24S-21-31-30-31Z"/>
+    <path d="M-66-44V-54H-46M33-54H54V-34M54 48V61H34M-47 61H-66V42" opacity=".45"/>
+    <path class="motion" d="M-60-42H48" stroke="#82eadf" stroke-opacity=".8"><animateTransform attributeName="transform" type="translate" values="0 0;0 94;0 0" dur="5s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="none" stroke="#507bb9" stroke-width="2"><path d="M286 261H350M590 261H654M894 261H958"/></g>
+  <g class="motion" fill="#86e1ff">
+    <circle r="4"><animateMotion dur="2.6s" repeatCount="indefinite" path="M286 261H350"/></circle>
+    <circle r="4"><animateMotion dur="2.6s" begin=".7s" repeatCount="indefinite" path="M590 261H654"/></circle>
+    <circle r="4"><animateMotion dur="2.6s" begin="1.4s" repeatCount="indefinite" path="M894 261H958"/></circle>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g><rect x="48" y="220" width="238" height="82" rx="12" fill="#102440" stroke="#315d94"/><text x="66" y="244" font-size="12" letter-spacing="2" fill="#78a7dd">01 / INPUT</text><text x="66" y="275" font-size="21" font-weight="600" fill="#e7f2ff">Dental radiograph</text></g>
+    <g><rect x="350" y="220" width="240" height="82" rx="12" fill="#122849" stroke="#4c83bd"/><text x="368" y="244" font-size="12" letter-spacing="2" fill="#83c9f7">02 / VISION</text><text x="368" y="275" font-size="21" font-weight="600" fill="#e7f2ff">Detect + segment</text></g>
+    <g><rect x="654" y="220" width="240" height="82" rx="12" fill="#1c2449" stroke="#7169ad"/><text x="672" y="244" font-size="12" letter-spacing="2" fill="#b4a9ed">03 / LANGUAGE</text><text x="672" y="275" font-size="21" font-weight="600" fill="#e7f2ff">AI report draft</text></g>
+    <g><rect x="958" y="220" width="268" height="82" rx="12" fill="#102d40" stroke="#4c9baf"/><text x="976" y="244" font-size="12" letter-spacing="2" fill="#8ad9d4">04 / VALIDATION</text><text x="976" y="275" font-size="21" font-weight="600" fill="#e7f2ff">Dentist review</text></g>
+  </g>
+</svg>
