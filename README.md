@@ -1,72 +1,84 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Mourad Kraiem — AI / ML engineering student. From models to useful systems." />
+<div align="center">
+
+<img src="https://github.com/Soni-KR.png" width="200" alt="Mourad Kraiem" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=1100&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=60&amp;lines=Hey%2C+I%27m+Mourad+Kraiem+%F0%9F%91%8B;AI+%2F+ML+Engineering+Student;LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Graph+ML;Reinforcement+Learning+%E2%80%A2+Intelligent+Systems" width="100%" alt="Hey, I'm Mourad Kraiem. AI / ML engineering student working with LLMs, computer vision, graph ML, and reinforcement learning." />
+
+**AI • ML • Research • Engineering**
+
+<p>
+  <a href="https://mouradkraiem.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mourad-kraiem-99a0952a1/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems"><img src="https://img.shields.io/badge/RESEARCH-0969DA?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Research" /></a>
+  <a href="mailto:mourad.kraiem@ensi-uma.tn"><img src="https://img.shields.io/badge/LET'S_TALK-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mourad" /></a>
 </p>
 
-<p align="center">
-  <a href="https://mouradkraiem.vercel.app"><strong>Portfolio</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mourad-kraiem-99a0952a1/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:mourad.kraiem@ensi-uma.tn"><strong>Say hello</strong></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Soni-KR&amp;style=flat-square&amp;color=58A6FF&amp;label=PROFILE+VIEWS" alt="Profile views" />
 
-I'm a computer science engineering student at **ENSI**, building across **language models, computer vision, and intelligent systems**. I like projects where an experiment becomes something people can actually use: a clinical workflow, a grounded answer, or a game you can play.
-
-## Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / PCDent</h3>
-<p><strong>Computer vision meets clinical workflows.</strong></p>
-<p>A team-built dental assistance prototype with radiograph segmentation, AI-assisted reports, real-time messaging, and dentist review.</p>
-<p><sub>YOLO · PyTorch · Django · React · PostgreSQL</sub></p>
-<a href="https://github.com/Soni-KR/pcdent"><strong>Explore the system →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / AI Detective</h3>
-<p><strong>Ask questions. Find contradictions. Solve the case.</strong></p>
-<p>An interactive mystery game with LLM-powered suspects and a deterministic evidence engine that keeps the story grounded.</p>
-<p><sub>Next.js · TypeScript · React · OpenRouter</sub></p>
-<a href="https://github.com/Soni-KR/ai-detective"><strong>Open the case files →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / MG-Retriever</h3>
-<p><strong>Arabic medical QA with a trail of evidence.</strong></p>
-<p>A Graph-RAG research prototype combining lexical, vector, and graph retrieval with citations and claim verification.</p>
-<p><sub>Python · Neo4j · Sentence Transformers · Docker</sub></p>
-<a href="https://github.com/Soni-KR/Explainable-G-RAG-Arabic-Medical-QA"><strong>Follow the evidence →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Small model, better summaries</h3>
-<p><strong>Fine-tuning with a small parameter budget.</strong></p>
-<p>A LoRA experiment on SmolLM2-135M: ROUGE-L improved from <strong>20.42 to 36.71</strong> on 500 DialogSum test dialogues.</p>
-<p><sub>PyTorch · Transformers · PEFT · TRL</sub></p>
-<a href="https://github.com/Soni-KR/lora-dialogue-summarization"><strong>Inspect the experiment →</strong></a>
-</td>
-</tr>
-</table>
-
-## A little deeper
-
-- **[Graphs + agents](https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems)** — an internship project exploring country–disease link prediction from Arabic health news.
-- **[Depth from a single image](https://github.com/Soni-KR/AIGOAT1.0-Task2-Monocular-Depth-Estimation-from-Single-RGB-Images-solution)** — a monocular depth estimation solution with ONNX inference, FastAPI, and React.
-- **[Agent Check](https://github.com/Soni-KR/agent-check)** — a local tool-using agent and evaluation lab built with Ollama, FastAPI, and React.
-
-## What I build with
-
-| Layer | Toolkit |
-| :--- | :--- |
-| **Models & experiments** | Python · PyTorch · Transformers · scikit-learn · OpenCV |
-| **Language & retrieval** | LoRA / PEFT · RAG · Neo4j · LangChain · Ollama |
-| **Interfaces & APIs** | TypeScript · React · Next.js · Django · FastAPI |
-| **Data & delivery** | PostgreSQL · Redis · Docker · Git |
+</div>
 
 ---
 
-<p align="center">
-  <strong>Have an interesting AI problem?</strong><br />
-  <a href="mailto:mourad.kraiem@ensi-uma.tn">Let's talk about what we could build.</a>
-</p>
+## ⚡ Featured System
+
+<a href="https://github.com/Soni-KR/pcdent">
+  <img src="./assets/pcdent-showcase.svg" width="100%" alt="PCDent: dental radiograph upload, YOLO detection and segmentation, AI report drafting, and dentist review. An academic team project." />
+</a>
+
+A full-stack AI dental assistance platform combining **computer vision, clinical workflows, real-time communication, and AI-assisted reporting** — with the dentist reviewing the final findings.
+
+`YOLO` · `PyTorch` · `Django` · `React` · `PostgreSQL`
+
+[**Explore PCDent →**](https://github.com/Soni-KR/pcdent)
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c&amp;theme=dark" alt="Python, TypeScript, JavaScript, C++, C" />
+
+`SQL`
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&amp;theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
+
+`Transformers` · `LLMs` · `Graph Neural Networks` · `RAG` · `YOLO` · `Q-Learning`
+
+### Web / Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,tailwind&amp;theme=dark" alt="React, Next.js, Django, FastAPI, Tailwind CSS" />
+
+### Data / Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github&amp;theme=dark" alt="PostgreSQL, Redis, Docker, Git, GitHub" />
+
+`Neo4j` · `LangChain` · `Chroma` · `ONNX` · `Celery`
+
+</div>
+
+---
+
+## 🧠 Research & Learning
+
+**[Multi-Agent News Prediction](https://github.com/Soni-KR/Improving-News-Prediction-through-Multi-Agent-Systems)**  
+Multi-agent pipelines and graph neural networks for country–disease link prediction from Arabic health news.
+
+**[⚽ Penalty Kick ML Learning Path](https://github.com/Soni-KR/penalty-kick-ml-learning-path)**  
+16 practical lessons that turn football penalty data into a complete ML pipeline, from exploration to prediction.
+
+---
+
+<div align="center">
+
+**Let's build something intelligent.**
+
+[Portfolio](https://mouradkraiem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mourad-kraiem-99a0952a1/) · [Email](mailto:mourad.kraiem@ensi-uma.tn)
+
+</div>
